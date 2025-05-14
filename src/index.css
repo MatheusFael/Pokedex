@@ -276,5 +276,12 @@ h3 {
   }
 }
 
+nav {
+  /* ...existing code... */
+  scrollbar-width: none; /* Firefox */
+}
 
+nav::-webkit-scrollbar {
+  display: none; /* Chrome, Safari */
+}
 
