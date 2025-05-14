@@ -60,4 +60,3 @@ Feito por Matheus Fael — [GitHub](https://github.com/MatheusFael)
 ---
 
 > Projeto para estudos de React, consumo de API e estilização moderna.  
-> Sinta-se livre para contribuir ou dar sugestões!
